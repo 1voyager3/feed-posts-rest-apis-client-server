@@ -1,3 +1,3 @@
 ### @desc
 
-Basic Feed Post app using REST API with client-side
+Basic Feed Post app with client & server side using REST API
